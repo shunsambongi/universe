@@ -1,0 +1,14 @@
+[
+    {
+        "package": "bytetrunc2",
+        "url": "https://github.com/shunsambongi/r-bytetrunc2"
+    },
+    {
+        "package": "chex",
+        "url": "https://github.com/shunsambongi/r-chex"
+    },
+    {
+        "package": "domo",
+        "url": "https://github.com/shunsambongi/r-domo"
+    }
+]
