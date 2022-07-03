@@ -8,6 +8,10 @@
         "url": "https://github.com/shunsambongi/r-chex"
     },
     {
+        "package": "dbiconf",
+        "url": "https://github.com/shunsambongi/r-dbiconf"
+    },
+    {
         "package": "domo",
         "url": "https://github.com/shunsambongi/r-domo"
     }
